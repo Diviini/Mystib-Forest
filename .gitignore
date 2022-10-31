@@ -1,0 +1,11 @@
+.vs
+.vsconfig
+*.meta
+UserSettings/
+obj/
+ProjectSettings/
+Logs/
+Library/
+Packages/
+Assembly-CSharp.csproj
+Mystib Forest.sln
