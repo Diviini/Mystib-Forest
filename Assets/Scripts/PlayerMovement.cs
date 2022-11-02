@@ -55,7 +55,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if(_velocity < 0.1f)
         {
-            SpriteRenderer.flipX
+            //SpriteRenderer.flipX
         }
     }
 }
